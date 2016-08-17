@@ -16,3 +16,11 @@ Several visitation statuses are tracked in a status column. These have two lette
 4. OS: Overnight Stay - green
 
 Each JSON file will also have a "last updated" column called "Update" that will contain the most recent year of status update.
+
+=== Has ===
+HTML file with basic map, light Mapbox style, and one GeoJSON overlay
+
+=== Needs ===
+Move the script to the js folder
+Style the geojson based on status
+Add more geojson layers
